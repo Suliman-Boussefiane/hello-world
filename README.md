@@ -1,2 +1,2 @@
 # hello-world
-Gotta start somewhere, don't you thhink?
+Gotta start somewhere, don't you think?
